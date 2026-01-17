@@ -6,6 +6,7 @@ import Footer from '@/components/Footer';
 
 const inter = Inter({ subsets: ['latin'] });
 
+
 export const metadata: Metadata = {
   title: 'Ramzi Green | Sustainable Packaging Solutions in UAE',
   description: 'Premium bamboo and sugarcane packaging products. 100% biodegradable, compostable, and eco-friendly solutions for businesses in UAE and beyond.',

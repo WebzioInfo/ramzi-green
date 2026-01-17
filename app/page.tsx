@@ -116,6 +116,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-start space-x-3">
                   <CheckCircle className="w-6 h-6 text-green-600 shrink-0 mt-1" />
+                
                   <div>
                     <h3 className="font-bold text-green-800 mb-1">
                       Competitive Wholesale Pricing
